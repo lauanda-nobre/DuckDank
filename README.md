@@ -1,8 +1,7 @@
 ## __Hello!! Esse é o readme do projeto DuckDank__ 🙃🙂
 
-Você pode acessar o game por esse [link](https://lauanda1327.github.io/DuckDank/) 👈
 
-Bom...Para desenvolver esse projeto foi utilizado as linguagens:
+Para desenvolver esse projeto foi utilizado as linguagens:
 HTML, CSS e JavaScript
 
 - HTML para a estrutura
@@ -22,7 +21,3 @@ Existe algoritmo para tempo de surgimento do __miniDuck__, algoritmo para analis
 ![imagem](./final.jpg)
 
 ### isso é tudo...
-
-[https://duckdankgo.web.app/](https://duckdankgo.web.app/)
-
-
