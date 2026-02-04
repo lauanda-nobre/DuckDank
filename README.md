@@ -7,9 +7,9 @@ O DuckDank não é apenas um oponente estático. Ele foi programado para ter "vi
 Existe algoritmo para tempo de surgimento do __miniDuck__, algoritmo para analisar jogadas do usuario, algoritmo para criar as animações do duckdank e muitos outros algoritmos responsáveis desde a execução de áudios a animação do personagem.
 
 #### Essa era a ideia inicial do projeto:
-![imagem](./ideia.jpg)
+![imagem](./readme/ideia.jpg)
 
 #### Esse é o resultado final em um dispositivo mobile padrão:
-![imagem](./final.jpg)
+![imagem](./readme/final.jpg)
 
 ### isso é tudo...
