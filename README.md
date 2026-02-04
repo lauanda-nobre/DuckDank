@@ -8,7 +8,7 @@ Em vez de utilizar uma lógica previsível, o comportamento do DuckDank foi dese
 >A proposta do projeto era simples: criar um jogo da velha onde o adversário fosse o computador.
 Para fugir do óbvio, surgiu a ideia de adicionar um personagem que interagisse com o jogador durante a partida.
 
-#### Personagem e programação
+## Personagem e programação
 O DuckDank atua como um **bot/IA** que reage ao andamento do jogo.
 Seu código inclui diversos algoritmos responsáveis por controlar desde a lógica das jogadas até as animações e efeitos visuais.
 
@@ -25,11 +25,31 @@ Esses algoritmos combinados criam uma experiência mais viva e menos repetitiva 
 ## Evolução Visual
 Para documentar o progresso do desenvolvimento, abaixo está a comparação entre a ideia inicial e o resultado final.
 
-#### Ideia inicial do projeto
-![imagem](./readme/ideia.jpg)
+<table>
+  <tr>
+    <th>Ideia inicial do projeto</th>
+    <th>Resultado final (dispositivo mobile padrão)</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img 
+        src="./readme/ideia.jpg"
+        width="300"
+        height="600"
+        style="object-fit: cover;"
+      >
+    </td>
+    <td align="center">
+      <img 
+        src="./readme/final.jpg"
+        width="300"
+        height="600"
+        style="object-fit: cover;"
+      >
+    </td>
+  </tr>
+</table>
 
-#### Resultado final (dispositivo mobile padrão)
-![imagem](./readme/final.jpg)
 
 ## Considerações Finais
 O DuckDank nasceu como um experimento simples que surgiu em minha mente durante uma viagem de ônibus, mas evoluiu para um projeto que mistura **lógica de jogo, interatividade, animação e personalidade.**
