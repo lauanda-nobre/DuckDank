@@ -1,12 +1,11 @@
 ## Quem é o DuckDank, afinal?
 
-
 O **DuckDank** não é apenas um oponente estático.
 Ele foi projetado para ter “vida própria” durante a partida, funcionando como um verdadeiro adversário no jogo da velha.
 
 Em vez de utilizar uma lógica previsível, o comportamento do DuckDank foi desenvolvido em **JavaScript**, combinando diferentes algoritmos que tornam suas ações **dinâmicas, imprevisíveis e interativas** — simulando a tomada de decisões de um jogador rea
 
->A proposta do projeto era simples: criar um jogo da velha onde o adversário fosse o computador.
+> A proposta do projeto era simples: criar um jogo da velha onde o adversário fosse o computador.
 Para fugir do óbvio, surgiu a ideia de adicionar um personagem que interagisse com o jogador durante a partida.
 
 ## Objetivo do Projeto
