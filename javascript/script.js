@@ -49,21 +49,22 @@ let ImagensInteracaoVitoria = [
 ]
 
 let FrasesInteracaoVitoria = [
-"Mitei...",
-"Quak...Quak...",
-"hA...hA...hA",
-"XEQUE-MATE",
-"O melhor Pato...",
-"A vitória será sempre minha...",
-"Não adianta tentar...",
-"Vou nadar...",
-"Vamos lá...você consegue mais que isso",
-"Um pato...dois patos... três patos...",
-"Patos também jogam jogo da velha",
-"Um patinho no lago...",
-"Essa foi por pouco...",
-"A várias formas de vencer...você só não consegue descobrir...",
-]
+  "I crushed it...",
+  "Quack...Quack...",
+  "hA...hA...hA",
+  "CHECKMATE",
+  "The best Duck...",
+  "Victory will always be mine...",
+  "No use trying...",
+  "I'm going for a swim...",
+  "Come on... you can do better than that",
+  "One duck... two ducks... three ducks...",
+  "Ducks play tic-tac-toe too",
+  "A little ducky in the lake...",
+  "That was a close one...",
+  "There are many ways to win... you just can't figure them out..."
+];
+
 //definir um delay de tempo
 
 const Sleep = (seconds) =>  {
@@ -435,7 +436,7 @@ function verificar(){
 			empateV++;
 			localStorage.setItem('empate', empateV)
 			let empate = localStorage.getItem('empate');
-			gameOverMsg.innerHTML = "Empate!!"
+			gameOverMsg.innerHTML = "draw!!"
 			conjuntoCasa.style.opacity = "0.45"
 			img.style.opacity = "0.45"
 		}
